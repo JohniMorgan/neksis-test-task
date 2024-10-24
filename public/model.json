@@ -1,0 +1,23 @@
+[
+    {
+        "id":0, 
+        "title":"заголовок", 
+        "description":"text", 
+        "published":true, 
+        "published_from": "2019-10-01" 
+    },
+    {
+        "id":1,
+        "title":"заголовок 1",
+        "description":"**text 1**",
+        "published":false, 
+        "published_from": "2024-10-01"
+    },
+    {
+        "id":2, 
+	    "title":"Тестовый Markdown",
+        "description": "\n#test test test\n**test test**\n\r\n> test test test test\n\ntest test test\n",
+        "published":false, 
+        "published_from": "2024-12-01"
+    }
+]
